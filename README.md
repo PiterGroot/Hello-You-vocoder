@@ -5,4 +5,5 @@
 ### • De laagste toon die een mens kan horen is 20 hz. 
 ## Kan geluid jouw gehoor beschadigen? Geef een voorbeeld.
 ### • Ja je gehoor kan bedschadigd raken, bijvoorbeeld als de muziek in een feest te hard is.
+### • Je gehoor kan ook niet van zichzelf herstellen, dus het raakt dus steeds meer beschadigd 
 ## Wat is de hoogste frequentie die een vleermuis kan horen?
